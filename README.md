@@ -24,7 +24,21 @@
 - [ ] vymyslet s ni genialni vynalezy
 - [ ] pachat zlociny
 - [ ] vyhybat se placeni dani
-- [ ] 
+- [ ] stavet domy s bazeny z blata v hloubi lesa
+- [ ] premyslet nad vesmirem
+- [ ] napadnout polsko
+- [ ] probirat kontroverzni temata
+- [ ] koukat se na ni jak dela brikule
+- [ ] delat brikule zatimco se na tebe kouka
+
+# jidla ktery jsou pro kocky jedovaty
+- alkohol
+- cokolada
+- lilie
+- hrozny
+- mliko (kdyz jsou dospely jsou vetsinou intolerantni)
+- cibule
+- syrovy rajcata a brambory
 
 # mel bych si poridit kocku?
 
