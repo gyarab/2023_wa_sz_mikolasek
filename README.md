@@ -5,7 +5,7 @@
 - chillin
 - blejou na koberce
 
-[dalsi inspirace](https://stock.adobe.com/cz/search?k=cat)
+[inspirace na to jak vypada kocka](https://stock.adobe.com/cz/search?k=cat)
 
 ![](https://i.pinimg.com/736x/bd/d4/bf/bdd4bf8f53cefcb358a97e69b7c0db50.jpg)
 
