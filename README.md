@@ -1,8 +1,8 @@
-# lebron jahames
+# proc jsou kocky nejlepsi zvirata
 **real**
 
-- nemam
-- chut
-- zit
+- doslova jsou to jen hosani
+- chillin
+- blejou na koberce
 
-[hodne ve stylu](https://stock.adobe.com/cz/search?k=cat)
+[inspirace na to co je to kocka](https://stock.adobe.com/cz/search?k=cat)
