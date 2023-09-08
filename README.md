@@ -35,6 +35,16 @@
 | nemam rozum | ano |
 | nemam nohy | ano |
 | uz mam kocku | ano |
+| jsem sam | ano |
+| nejsem sam | ano |
+| jmenuju se Sam | mozna jeste si to promyslim |
+| rodice se me ptaji kdy budou mit vnoucata | ano |
+| mam nohy | ano |
+| platim dane | ano |
+| neplatim dane | ano |
+| mam v dome cirkularku | ano |
+| nemam dum | ano |
+|
 
 # random ass text kterej nic neznamena
 
