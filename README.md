@@ -5,4 +5,4 @@
 - chillin
 - blejou na koberce
 
-[inspirace na to co je to kocka](https://stock.adobe.com/cz/search?k=cat)
+[takhle vypada kocka btw](https://stock.adobe.com/cz/search?k=cat)
