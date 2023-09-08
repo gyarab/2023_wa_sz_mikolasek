@@ -5,5 +5,5 @@
 - chillin
 - blejou na koberce
 
-![alt text](image.jpg)
+![](https://i.pinimg.com/736x/bd/d4/bf/bdd4bf8f53cefcb358a97e69b7c0db50.jpg)
 [dalsi inspirace](https://stock.adobe.com/cz/search?k=cat)
