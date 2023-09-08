@@ -11,10 +11,11 @@
 - maj oci a nohy (4)
 
 # jak vypadaj kocky
-
-[inspirace na to jak vypada kocka](https://stock.adobe.com/cz/search?k=cat)
-
+takhle vypada kocka: 
 ![](https://i.pinimg.com/736x/bd/d4/bf/bdd4bf8f53cefcb358a97e69b7c0db50.jpg)
+
+
+[dalsi inspirace na to jak vypadaj kocky](https://stock.adobe.com/cz/search?k=cat)
 
 # aktivity co muzes delat s kockou
 
