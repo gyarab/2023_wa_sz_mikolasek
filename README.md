@@ -9,8 +9,7 @@
 - sezere me pokud umru
 - asi by me sezrala i kdybych neumrel
 - maj oci a nohy (4)
-
-~~kocky jsou spatny~~
+-~~kocky jsou spatny~~
 
 # jak vypadaj kocky
 takhle vypada kocka: 
