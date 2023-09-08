@@ -1,6 +1,6 @@
 # lebron jahames
 **real**
 
--nemam
--chut
--zit
+- nemam
+- chut
+- zit
