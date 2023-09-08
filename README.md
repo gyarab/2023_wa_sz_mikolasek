@@ -21,6 +21,13 @@
 - [x] pachat zlociny
 - [x] vyhybat se placeni dani
 
+# mel bych si poridit kocku?
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 # random ass text kterej nic neznamena
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Suspendisse nisl. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Praesent in mauris eu tortor porttitor accumsan. Mauris elementum mauris vitae tortor. Aliquam ante. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. In convallis. Fusce nibh. Integer lacinia. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
