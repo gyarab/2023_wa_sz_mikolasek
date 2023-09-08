@@ -1,10 +1,14 @@
 # proc jsou kocky nejlepsi zvirata
-**real**
+**real mam rad kocky**
 
 - jsou chlupaty a roztomily
 - doslova jsou to jen hosani
 - chillin
 - blejou na koberce
+- nemusim s ni chodit na prochazky
+- sezere me pokud umru
+- asi by me sezrala i kdybych neumrel
+- maj oci a nohy (4)
 
 # jak vypadaj kocky
 
