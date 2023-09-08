@@ -14,12 +14,12 @@
 
 # aktivity co muzes delat s kockou
 
-- mazlit se s ni
-- dotknout se jejiho mokryho nosu aa so cute
-- vzit ji ledviny
-- vymyslet s ni genialni vynalezy
-- pachat zlociny
-- vyhybat se placeni dani
+- [x] mazlit se s ni
+- [x] dotknout se jejiho mokryho nosu aa so cute
+- [x] vzit ji ledviny
+- [x] vymyslet s ni genialni vynalezy
+- [x] pachat zlociny
+- [x] vyhybat se placeni dani
 
 # random ass text kterej nic neznamena
 
