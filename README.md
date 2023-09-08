@@ -19,18 +19,18 @@ takhle vypada kocka:
 
 # aktivity co muzes delat s kockou
 
-- [ ] mazlit se s ni
-- [ ] dotknout se jejiho mokryho nosu aa so cute
+- [x] mazlit se s ni
+- [x] dotknout se jejiho mokryho nosu aa so cute
 - [ ] vzit ji ledviny
 - [ ] vymyslet s ni genialni vynalezy
 - [ ] pachat zlociny
-- [ ] vyhybat se placeni dani
+- [x] vyhybat se placeni dani
 - [ ] stavet domy s bazeny z blata v hloubi lesa
 - [ ] premyslet nad vesmirem
 - [ ] napadnout polsko
 - [ ] probirat kontroverzni temata
 - [ ] koukat se na ni jak dela brikule
-- [ ] delat brikule zatimco se na tebe kouka
+- [x] delat brikule zatimco se na tebe kouka
 
 # jidla ktery jsou pro kocky jedovaty
 - alkohol
