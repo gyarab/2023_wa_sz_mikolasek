@@ -71,7 +71,7 @@ takhle vypada kocka:
 
 [link na mapy](https://www.google.com/maps/place/Podkoz%C3%AD,+266+01+Chy%C5%88ava/@50.0482522,14.0294858,12z/data=!4m10!1m2!2m1!1smaps!3m6!1s0x470bba14f056b2fb:0xf02d8013830d0b2!8m2!3d50.048253!4d14.1127853!15sCgRtYXBzkgEMbmVpZ2hib3Job29k4AEA!16s%2Fg%2F121g72hb?entry=ttu)
 
-# random ass text kterej nic neznamena
+# random text kterej nic neznamena
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Suspendisse nisl. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Praesent in mauris eu tortor porttitor accumsan. Mauris elementum mauris vitae tortor. Aliquam ante. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. In convallis. Fusce nibh. Integer lacinia. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
