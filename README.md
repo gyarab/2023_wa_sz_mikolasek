@@ -23,10 +23,14 @@
 
 # mel bych si poridit kocku?
 
-| Syntax | Description |
+| situace | odpoved |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| mam penize | ano |
+| nemam penize | ano |
+| mam rozum | ano |
+| nemam rozum | ano |
+| nemam nohy | ano |
+| uz mam kocku | ano |
 
 # random ass text kterej nic neznamena
 
