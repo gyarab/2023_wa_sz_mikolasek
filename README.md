@@ -44,7 +44,10 @@
 | neplatim dane | ano |
 | mam v dome cirkularku | ano |
 | nemam dum | ano |
-|
+| moje zemepisna poloha je 49.957330, 14.121421 | mega jo | 
+
+# vesnice co se jmenuje podkozi lmao
+[link na mapy](https://www.google.com/maps/place/Podkoz%C3%AD,+266+01+Chy%C5%88ava/@50.0482522,14.0294858,12z/data=!4m10!1m2!2m1!1smaps!3m6!1s0x470bba14f056b2fb:0xf02d8013830d0b2!8m2!3d50.048253!4d14.1127853!15sCgRtYXBzkgEMbmVpZ2hib3Job29k4AEA!16s%2Fg%2F121g72hb?entry=ttu)
 
 # random ass text kterej nic neznamena
 
