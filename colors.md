@@ -13,5 +13,5 @@ vyjadruje take zabavu a hravost
 ![](https://fakeimg.pl/200x200/5243ea/5243EA)
 ![](https://fakeimg.pl/200x200/666ed1/666ED1)
 
-fialova vyjadruje luxus a kvalitu a svetle odstiny fialove evokuji pohodli
+fialova vyjadruje luxus a kvalitu a svetle odstiny fialove evokuji pohodli, prechod do modre vyjadruje uprimnost a klid
 
