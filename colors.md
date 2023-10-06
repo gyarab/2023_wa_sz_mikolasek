@@ -1,5 +1,4 @@
 # Teorie barev
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fsoundcloud-logo%2F&psig=AOvVaw3AFksjRLdJvKcqCk3P4Y-o&ust=1696659301233000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjqo53j4IEDFQAAAAAdAAAAABAD)
-
+![sc logo](https://1000logos.net/wp-content/uploads/2021/04/Soundcloud-logo-500x281.png)
 logo soundcloudu vyjadruje uhhhhhhh
