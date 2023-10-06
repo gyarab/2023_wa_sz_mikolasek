@@ -9,6 +9,9 @@ take vyjadruje jistotu a komfort - hudba tvori safe space pro lidi, kteri jsou v
 vyjadruje take zabavu a hravost
 
 ![](https://fakeimg.pl/200x200/c6a5f7/C6A5F7)
-![](https://fakeimg.pl/200x200/c6a5f7/C6A5F7)
+![](https://fakeimg.pl/200x200/8871d1/8871D1)
+![](https://fakeimg.pl/200x200/5243ea/5243EA)
+![](https://fakeimg.pl/200x200/666ed1/666ED1)
+
 
 
