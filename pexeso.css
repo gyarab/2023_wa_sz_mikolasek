@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.pexeso-card {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.pexeso-row {
+    display: flex;
+}
+
+.pexeso-board {
+    flex-direction: column;
+}
